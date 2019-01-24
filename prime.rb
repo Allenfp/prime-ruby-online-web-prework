@@ -3,3 +3,5 @@ def prime?(num)
   half_num
 
 end
+
+prime?(5)
