@@ -12,4 +12,4 @@ def prime?(num)
   is_prime
 end
 
-prime?(8)
+prime?()
