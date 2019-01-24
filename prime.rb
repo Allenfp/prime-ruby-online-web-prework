@@ -8,7 +8,6 @@ def prime?(num)
   half_num = num / 2
   num_range = 2..half_num
 
-
   num_range.each do |thing|
     if num % element == 0
       is_prime = false
