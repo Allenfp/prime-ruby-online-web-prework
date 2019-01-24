@@ -12,8 +12,7 @@ def prime?(num)
   num_range.each do |thing|
     if num % element == 0
       is_prime = false
-    elsif 1 > element
-      is_prime = false
+
     end
   end
   is_prime
