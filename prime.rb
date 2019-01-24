@@ -4,7 +4,7 @@ def prime?(num)
   # is_prime = true
 
   num_range.each do |thing|
-    puts thing
+    puts "#{thing}"
 
     # if num % element == 0
     #   is_prime = false
