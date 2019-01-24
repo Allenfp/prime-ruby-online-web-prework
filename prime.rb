@@ -6,7 +6,7 @@ def prime?(num)
   num_range.each do |element|
     if num % element == 0
       is_prime = false
-    elsif num < 0
+    elsif element < 1
       is_prime = false
     end
   end
