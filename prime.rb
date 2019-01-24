@@ -13,7 +13,7 @@ def prime?(num)
     # end
   end
   # puts is_prime
-  is_prime
+  # is_prime
 end
 
 prime?(-1)
