@@ -8,7 +8,6 @@ def prime?(num)
       is_prime = false
     elsif num < 0
       is_prime = false
-
     end
   end
 
