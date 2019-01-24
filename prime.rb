@@ -5,12 +5,12 @@ def prime?(num)
 
   num_range.each do |element|
     puts element
-    
-    if num % element == 0
-      is_prime = false
-    elsif 1 > element
-      is_prime = false
-    end
+
+    # if num % element == 0
+    #   is_prime = false
+    # elsif 1 > element
+    #   is_prime = false
+    # end
   end
   puts is_prime
   is_prime
