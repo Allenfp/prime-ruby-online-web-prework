@@ -3,8 +3,8 @@ def prime?(num)
   num_range = 2..half_num
   # is_prime = true
 
-  num_range.each do |element|
-    puts element
+  num_range.each do |thing|
+    puts thing
 
     # if num % element == 0
     #   is_prime = false
