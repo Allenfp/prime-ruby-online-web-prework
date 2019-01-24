@@ -1,6 +1,7 @@
 def prime?(num)
   half_num = num / 2
   num_range = 2..half_num
+  puts num_range
   is_prime = true
 
   num_range.each do |element|
