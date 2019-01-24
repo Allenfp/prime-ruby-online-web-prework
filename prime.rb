@@ -1,4 +1,9 @@
 def prime?(num)
+
+  if num > 1
+    break
+  end
+  
   half_num = num / 2
   num_range = 2..half_num
   is_prime = true
