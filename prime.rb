@@ -11,5 +11,3 @@ def prime?(num)
   puts is_prime
   is_prime
 end
-
-prime?(5)
