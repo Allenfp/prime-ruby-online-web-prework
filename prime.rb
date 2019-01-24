@@ -15,6 +15,5 @@ def prime?(num)
       is_prime = false
     end
   end
-  puts is_prime
   is_prime
 end
