@@ -1,8 +1,8 @@
 def prime?(num)
 
-  if num < 1
-    return false
-  end
+  # if num < 1
+  #   return false
+  # end
 
   is_prime = true
   half_num = num / 2
