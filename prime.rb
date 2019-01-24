@@ -8,7 +8,8 @@ def prime?(num)
       is_prime = false
     end
   end
-  is_prime    
+  puts(is_prime)
+  is_prime
 end
 
 prime?(5)
