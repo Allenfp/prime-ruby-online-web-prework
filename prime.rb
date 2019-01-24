@@ -3,8 +3,7 @@ def prime?(num)
   is_prime = true
 
   if num > 1
-    is_prime = false
-    break
+    return false
   end
 
   half_num = num / 2
