@@ -14,4 +14,4 @@ def prime?(num)
   is_prime
 end
 
-prime(-1)
+prime?(-1)
